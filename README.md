@@ -1,2 +1,3 @@
 # STUDENT-RECORD-MANAGEMENT
 This is a student record management system project, which enables you to create, read, modify, and delete student Records.
+This is a simple mini project in C++, built as a console application without using any graphics features.The Student Record Management project is designed in ‘C++’ language. This system is based on a concept to store and generate all the records of the students. Also, this program has a simple database of students for a school where the user can add student details safely and it’s not time-consuming. This System makes it easy to store records of each. Moreover, the user can view all the records, modify and remove the details. Also, this mini project is easy to operate and understand by the users. 
